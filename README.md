@@ -22,7 +22,7 @@ This project is about Anomaly Detection in Time Series Data with Keras and Tenso
 * `import plotly.graph_objects as go`
 
 **Task 2: Load and Inspect the S&P 500 Index Data:**<br>
-The S&P 500 Data set is from Kaggle. But I have downloaded it in Github and can be accessed via this [**data_link**]('https://raw.githubusercontent.com/Lawrence-Krukrubo/Anomaly_Detection_in_Time_Series_Data_with_Keras/master/spx.csv')
+The S&P 500 Data set is from Kaggle. But I have downloaded the raw files in Github. Accessed via this [**data_link**](https://raw.githubusercontent.com/Lawrence-Krukrubo/Anomaly_Detection_in_Time_Series_Data_with_Keras/master/spx.csv)
 
 **Task 3: Data Preprocessing:**<br>
 I shall do some data-preprocessing that will involve:-
