@@ -1,5 +1,12 @@
 # Anomaly_Detection_with_Time_Series_Data
+
+In data mining, **anomaly detection (also outlier detection)** is the identification of rare items, events or observations which raise suspicions by differing significantly from the majority of the data. Typically the anomalous items will translate to some kind of problem such as bank fraud, a structural defect, medical problems or errors in a text. Anomalies are also referred to as _outliers, novelties, noise, deviations and exceptions_.
+
 In this project, I will build an Anomaly Detection Model from scratch, using Deep Learning. Specifically, I will be designing and training an **LSTM autoencoder** using the **Keras API with Tensorflow 2 as the backend** to detect anomalies (sudden price changes) in the S&P 500 index. I will also create interactive charts and plots using Plotly, Python and Seaborn for data visualization and display the results in Jupyter notebooks.
+
+<p align="center">
+  <img src="https://github.com/Lawrence-Krukrubo/Anomaly_Detection_in_Time_Series_Data_with_Keras/blob/master/real-time-anomaly-detection.jpg?raw=true">
+</p>
 
 ## Note:
 **To fully visualize the interactive plots and charts in Plotly, its best to open the project Notebook in Google Colab.
